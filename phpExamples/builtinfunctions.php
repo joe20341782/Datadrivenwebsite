@@ -8,4 +8,8 @@ $new_string = str_replace("world", "Joe", $str_replace);
 echo $new_string;
 
 echo date(' l');
+
+$fruits = array("Banana", "Apple", "Pear");
+
+echo count($fruits);
 ?>
